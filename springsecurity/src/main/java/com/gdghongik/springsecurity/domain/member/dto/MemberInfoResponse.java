@@ -1,5 +1,4 @@
 package com.gdghongik.springsecurity.domain.member.dto;
-
 import com.gdghongik.springsecurity.domain.member.entity.Member;
 import lombok.Getter;
 
